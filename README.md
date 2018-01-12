@@ -1,6 +1,13 @@
 # 介绍
-> 使用没有dev-server.js模板模拟接口返回数据
-> isMock 开关 在mock接口和后端接口间切换
+> 使用没有dev-server.js模板模拟接口返回数据 
+
+> isMock开关切换mock数据和后端接口 
+
+> 使用mock.js生成数据 
+
+> 接口定义 method和url,快速响应后端变动 
+
+> 不需要改动项目代码 
 ## mock数据来源
  - 本地*.json
  - mock.js 随机数据
