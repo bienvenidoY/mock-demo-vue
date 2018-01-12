@@ -36,17 +36,17 @@ npm install axios --save //写入prod依赖
   3. api/ratings按钮 post 本地json
   4. api/list 按钮 get mock.js随机数据
 
-  ## Build Setup
+## Build Setup
 
-  ``` bash
-  # install dependencies
-  npm install or yarn
+``` bash
+# install dependencies
+npm install or yarn
 
-  # serve with hot reload at localhost:8080
-  npm run dev
+# serve with hot reload at localhost:8080
+npm run dev
 
-  # build for production with minification
-  npm run build:prod
+# build for production with minification
+npm run build:prod
 
-  # build for buildtest with minification
-  npm run build:test
+# build for buildtest with minification
+npm run build:test
